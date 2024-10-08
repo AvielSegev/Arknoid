@@ -1,3 +1,7 @@
+### Link to the final Assigment: https://github.com/ariecattan/biuoop2023/wiki/Assignment-6
+### compile command: javac -cp biuoop-1.4.jar:src @Running-instructions.txt -d bin
+###run comment: java -cp biuoop-1.4.jar:bin Ass6Game
+
 ### Sources Path:
 
 "src/Game/Actions/BallRemover.java"
@@ -36,6 +40,4 @@
 "src/Game/Sprites/Shapes/Ball.java"
 "src/Ass6Game.java"
 
-### Link to the final Assigment: https://github.com/ariecattan/biuoop2023/wiki/Assignment-6
-### compile command: javac -cp biuoop-1.4.jar:src @README.txt -d bin
-###run comment: java -cp biuoop-1.4.jar:bin Ass6Game
+
